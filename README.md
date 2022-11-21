@@ -1,7 +1,8 @@
 # Template for React app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React Component](https://github.com/facebook/create-react-app).
 Following libs are used:
- - ReactJS
- - TypeScript
- - ESLint/Prettier
+
+- ReactJS
+- TypeScript
+- ESLint/Prettier
